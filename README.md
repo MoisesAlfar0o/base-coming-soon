@@ -7,8 +7,8 @@ This is a solution to the [Base Apparel coming soon page.](https://www.frontendm
 
 ## Links
 
-- Solution URL: [here](https://www.frontendmentor.io/solutions/advice-generator-app-react-Oqi_dorNsN)
-- Live Site URL: [here](https://advice-app-eta-plum.vercel.app/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-react-jG2yhn2sMw)
+- Live Site URL: [here](https://base-coming-soon-tau.vercel.app/)
 
 
 ## Build with
