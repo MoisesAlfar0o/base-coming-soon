@@ -1,0 +1,20 @@
+.hero-desktop  {
+  width: 100%;
+  background: url('../../assets/images/hero-desktop.jpg') no-repeat center center;
+  background-size: cover;
+}
+
+@media (max-width: 768px) {
+  .hero-mobile {
+    width: 100%;
+    display: block;
+    height: 300px;
+    overflow: visible;
+    margin-top: 20px;
+  }
+
+  .hero-desktop {
+    width: 0;
+    background: none;
+  }
+}
